@@ -1,5 +1,5 @@
-<h1>Hey you!</h1>
-I'm 17y.o Programmer. Sedang mencari jati diri.
+<h1>1000-7</h1>
+I'm 18y.o Programmer. Sedang mencari jati diri.
 
 <br/>
 <br/>
